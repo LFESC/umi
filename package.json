@@ -39,7 +39,7 @@
     "eslint-plugin-react": "7.11.1",
     "father-build": "^1.1.1",
     "form-data": "^2.3.3",
-    "got": "9.3.2",
+    "got": "11.8.5",
     "husky": "1.2.0",
     "lerna": "3.6.0",
     "lerna-changelog": "0.8.2",
